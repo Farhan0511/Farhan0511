@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Mochamad Farhan Ferdiansyah**.<br>
 
-Saya seorang **Front End Website dan Backend website Developer**.<br>
+Saya seorang **Front End Website Developer**.<br>
 
 Saya berasal dari Serang Banten.<br>
 
