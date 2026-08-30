@@ -25,9 +25,10 @@ Saat ini saya berfokus pada **Front-End Development menggunakan React.js** dan s
 ---
 
 
-<p align="center"> ## 🛠️ Tech Stack </p>
-
 <div align="center">
+  
+## 🛠️ Tech Stack 
+
 ### Frontend
 
 <p align="center">
@@ -57,7 +58,7 @@ Saat ini saya berfokus pada **Front-End Development menggunakan React.js** dan s
   <img src="https://skillicons.dev/icons?i=npm" title="NPM"/>
 </p>
 </div>
----
+
 
 ## 🚀 Current Project
 
