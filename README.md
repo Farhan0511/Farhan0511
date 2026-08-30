@@ -25,12 +25,11 @@ Saat ini saya berfokus pada **Front-End Development menggunakan React.js** dan s
 ---
 
 
-<div align="center">
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
@@ -42,7 +41,7 @@ Saat ini saya berfokus pada **Front-End Development menggunakan React.js** dan s
 
 ### Backend & Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php" title="PHP"/>
   <img src="https://skillicons.dev/icons?i=laravel" title="Laravel"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
@@ -50,15 +49,12 @@ Saat ini saya berfokus pada **Front-End Development menggunakan React.js** dan s
 
 ### Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
   <img src="https://skillicons.dev/icons?i=npm" title="NPM"/>
 </p>
-
-</div>
-
 
 ---
 
