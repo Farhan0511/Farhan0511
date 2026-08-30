@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 About Me
+<h1 align="center" ## 👋 About Me <h1/>
 
 Halo! Saya **Mochamad Farhan Ferdiansyah**, seorang Web Developer yang berasal dari **Serang, Banten 🇮🇩**.
 
@@ -24,7 +24,9 @@ Saat ini saya berfokus pada **Front-End Development menggunakan React.js** dan s
 
 ---
 
-## 🛠️ Tech Stack
+
+<div align="center">
+### 🛠️ Tech Stack
 
 ### Frontend
 
@@ -54,6 +56,9 @@ Saat ini saya berfokus pada **Front-End Development menggunakan React.js** dan s
   <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code"/>
   <img src="https://skillicons.dev/icons?i=npm" title="NPM"/>
 </p>
+
+</div>
+
 
 ---
 
